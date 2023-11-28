@@ -5,6 +5,7 @@ Proyecto de JUnit para reforzar sobre el aprendizaje en pruebas de SW. La aplica
 Felipe Rojas Saavedra
 
 ## Enlace al repositorio
+[https://github.com/INF331/tarea3](https://github.com/INF331/tarea3)
 
 ## Aspectos formales vistos en el curso
 En el trabajo realizado se contempla el trabajo mediante desarrollo basado en pruebas.
